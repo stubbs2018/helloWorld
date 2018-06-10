@@ -1,0 +1,6 @@
+C:\Users\Jonathan\Desktop\oopSyllabusBits\oopSyllabusBits\bin\Debug\oopSyllabusBits.exe.config
+C:\Users\Jonathan\Desktop\oopSyllabusBits\oopSyllabusBits\bin\Debug\oopSyllabusBits.exe
+C:\Users\Jonathan\Desktop\oopSyllabusBits\oopSyllabusBits\bin\Debug\oopSyllabusBits.pdb
+C:\Users\Jonathan\Desktop\oopSyllabusBits\oopSyllabusBits\obj\Debug\oopSyllabusBits.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\oopSyllabusBits\oopSyllabusBits\obj\Debug\oopSyllabusBits.exe
+C:\Users\Jonathan\Desktop\oopSyllabusBits\oopSyllabusBits\obj\Debug\oopSyllabusBits.pdb
